@@ -1,0 +1,16 @@
+[
+{
+  "modid": "adamantium",
+  "name": "Adamantium",
+  "description": "Mod pour le serveur PvP/Faction Adamantium!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["jules552"],
+  "credits": "Moi",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

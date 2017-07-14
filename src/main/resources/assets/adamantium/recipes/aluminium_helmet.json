@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "adamantium:aluminium_helmet"
+    }
+  },
+  "result": {
+    "item": "adamantium:aluminium_helmet"
+  }
+} 

@@ -1,0 +1,47 @@
+item.adamantium_ingot.name=Lingot d'Adamantium
+item.adamantium_pickaxe.name=Pioche en Adamantium
+item.adamantium_sword.name=Epee en Adamantium
+item.adamantium_shovel.name=Pelle en Adamantium
+item.adamantium_axe.name=Hache en Adamantium
+item.adamantium_helmet.name=Casque en Adamantium
+item.adamantium_chestplate.name=Plastron en Adamantium
+item.adamantium_leggings.name=Jambieres en Adamantium
+item.adamantium_boots.name=Bottes en Adamantium
+
+item.silver_ingot.name=Lingot d'Argent
+item.silver_helmet.name=Casque en Argent
+item.silver_chestplate.name=Plastron en Argent
+item.silver_leggings.name=Jambieres en Argent
+item.silver_boots.name=Bottes en Argent
+item.silver_pickaxe.name=Pioche en Argent
+item.silver_sword.name=Epee en Argent
+item.silver_shovel.name=Pelle en Argent
+item.silver_axe.name=Hache en Argent
+
+item.aluminium_ingot.name=Lingot d'Aluminium
+item.aluminium_helmet.name=Casque en Aluminium
+item.aluminium_chestplate.name=Plastron en Aluminium
+item.aluminium_leggings.name=Jamnieres en Aluminium
+item.aluminium_boots.name=Bottes en Aluminium
+item.aluminium_pickaxe.name=Pioche en Aluminium
+item.aluminium_sword.name=Epee en Aluminium
+item.aluminium_shovel.name=Pelle en Aluminium
+item.aluminium_axe.name=Hache en Aluminium
+
+tile.adamantium_block.name=Bloc d'Adamantium
+tile.adamantium_ore.name=Minerai d'Adamantium
+
+tile.silver_ore.name=Minerai d'Argent
+tile.silver_block.name=Bloc d'Argent
+
+tile.aluminium_ore.name=Minerai d'Aluminium
+tile.aluminium_block.name=Bloc d'Aluminium
+
+tile.light_block.name=Bloc Lumineux
+tile.xray_block.name=Block X-Ray
+tile.bounce_pad_red.name=Bounce Pad
+tile.bounce_pad_blue.name=Bounce Pad
+tile.bounce_pad_green.name=Bounce Pad
+tile.spike_block.name=Bloc Piques
+
+itemGroup.Adamantium=Adamantium

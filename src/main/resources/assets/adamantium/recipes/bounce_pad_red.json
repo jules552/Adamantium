@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SSS",
+    "BBB"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:slime_block"
+    }
+    "B": {
+      "item": "adamantium:bounce_pad_blue"
+    }
+  },
+  "result": {
+    "item": "adamantium:bounce_pad_red",
+    "data": 0
+  }
+}

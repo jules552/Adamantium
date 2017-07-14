@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "aaa",
+    "aia",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "adamantium:silver_ingot"
+    }
+    "i": {
+      "item": "adamantium:silver_ingot"
+    }
+  },
+  "result": {
+    "item": "adamantium:spike_block",
+    "data": 0
+  }
+}

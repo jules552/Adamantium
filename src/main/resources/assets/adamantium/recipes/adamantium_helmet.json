@@ -1,0 +1,15 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "XXX",
+    "X X"
+  ],
+  "key": {
+    "X": {
+      "item": "adamantium:adamantium_ingot"
+    }
+  },
+  "result": {
+    "item": "adamantium:adamantium_helmet"
+  }
+} 

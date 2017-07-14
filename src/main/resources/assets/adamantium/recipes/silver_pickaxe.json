@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "XXX",
+    " # ",
+    " # "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "item": "adamantium:silver_ingot"
+    }
+  },
+  "result": {
+    "item": "adamantium:silver_pickaxe"
+  }
+}

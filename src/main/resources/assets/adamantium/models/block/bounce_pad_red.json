@@ -1,0 +1,8 @@
+{
+    "parent": "block/half_slab",
+    "textures": {
+        "bottom": "adamantium:blocks/bounce_pad_red",
+        "top": "adamantium:blocks/bounce_pad_red",
+        "side": "adamantium:blocks/bounce_pad_red"
+    }
+}

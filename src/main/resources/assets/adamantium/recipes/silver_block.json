@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "sss",
+    "sss",
+    "sss"
+  ],
+  "key": {
+    "s": {
+      "item": "adamantium:silver_ingot"
+    }
+  },
+  "result": {
+    "item": "adamantium:silver_block",
+    "data": 0
+  }
+}

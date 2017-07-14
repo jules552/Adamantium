@@ -1,0 +1,47 @@
+item.adamantium_ingot.name=Adamantium Ingot
+item.adamantium_sword.name=Adamantium Sword
+item.adamantium_pickaxe.name=Adamantium Pickaxe
+item.adamantium_shovel.name=Adamantium Shovel
+item.adamantium_axe.name=Adamantium Axe
+item.adamantium_helmet.name=Adamantium Helmet
+item.adamantium_chestplate.name=Adamantium Chestplate
+item.adamantium_leggings.name=Adamantium Leggings
+item.adamantium_boots.name=Adamantium Boots
+
+item.silver_ingot.name=Silver Ingot
+item.silver_helmet.name=Silver Helmet
+item.silver_chestplate.name=Silver Chestplate
+item.silver_leggings.name=Silver Leggings
+item.silver_boots.name=Silver Boots
+item.silver_pickaxe.name=Silver Pickaxe
+item.silver_sword.name=Silver Sword
+item.silver_shovel.name=Silver Shovel
+item.silver_axe.name=Silver Axe
+
+item.aluminium_ingot.name=Aluminium Ingot
+item.aluminium_helmet.name=Aluminium Helmet
+item.aluminium_chestplate.name=Aluminium Chestplate
+item.aluminium_leggings.name=Aluminium Leggings
+item.aluminium_boots.name=Aluminium Boots
+item.aluminium_pickaxe.name=Aluminium Pickaxe
+item.aluminium_sword.name=Aluminium Sword
+item.aluminium_shovel.name=Aluminium Shovel
+item.aluminium_axe.name=Aluminium Axe
+
+tile.adamantium_block.name=Adamantium Block
+tile.adamantium_ore.name=Adamantium Ore
+
+tile.silver_ore.name=Silver Ore
+tile.silver_block.name=Silver Block
+
+tile.aluminium_ore.name=Aluminium Ore
+tile.aluminium_block.name=Aluminium Block
+
+tile.light_block.name=Light Block
+tile.xray_block.name=X-Ray Block
+tile.bounce_pad_red.name=Bounce Pad
+tile.bounce_pad_blue.name=Bounce Pad
+tile.bounce_pad_green.name=Bounce Pad
+tile.spike_block.name=Spike Block
+
+itemGroup.Adamantium=Adamantium

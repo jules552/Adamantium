@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ggg",
+    "gAg",
+    "ggg"
+  ],
+  "key": {
+    "A": {
+      "item": "adamantium:adamantium_block"
+    }
+    "g": {
+      "item": "minecraft:glass"
+    }
+  },
+  "result": {
+    "item": "adamantium:xray_block",
+    "data": 0
+  }
+}

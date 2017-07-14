@@ -1,0 +1,16 @@
+{
+  "type": "crafting_shaped",
+  "group": "aluminium_ingot",
+  "pattern": [
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "adamantium:aluminium_block"
+    }
+  },
+  "result": {
+    "item": "adamantium:aluminium_ingot",
+    "count": 9
+  }
+}

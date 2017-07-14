@@ -1,0 +1,19 @@
+{
+	"records.AdamantiumDisk": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "adamantium:records/AdamantiumDisk",
+				"stream": true
+		}]
+	},
+	"records.CarteKiwi": {
+		"category": "record",
+		"sounds": [
+			{
+				"name": "adamantium:records/CarteKiwi",
+				"stream": true
+		}]
+	}
+	}
+
